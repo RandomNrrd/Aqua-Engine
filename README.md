@@ -1,14 +1,12 @@
 # Aqua Engine
-## Sub Topic Headings H2
-Sub Topic Headings H2 is used for sub sections like Configurations, Authors etc.
-
-````
-pip install boto
-````
-
-The above formatting is used to create a box which can display code or command in a well formatted manner.
-
-
+## Configuration
+To configure Aqua Engine click on the Engine Folder and open the main.py file this will configure the engine onto your machine. To get started open Filemanager.py. Filemanager.py will create a file name file.py. Rename this file and then ight click and press edit. To Debug code click main.py to open up the main scene.
+## Minimum Requirments
+OS: Windows Xp
+Processor: Dual Core 2.0 Ghz
+Memory: 2GB
+Hard Disk Space: 200MB
+Video Card: 128mb Video Memory
 ## Usage
 
 Below is another example of displaying
