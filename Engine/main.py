@@ -1,5 +1,8 @@
 from tkinter import *
 
+import time
+
+sleep(1)
 print("Boot Successful")
 window = Tk()
 window.title("Aqua Engine")
